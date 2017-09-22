@@ -1,19 +1,20 @@
 {
-  "name": "youtube-dl",
+  "name": "@stem/youtube-dl",
   "description": "youtube-dl driver for node",
   "keywords": [
     "youtube",
     "video",
     "download"
   ],
-  "version": "1.11.2",
+  "version": "1.11.3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fent/node-youtube-dl.git"
+    "url": "git://github.com/stems/node-youtube-dl.git"
   },
   "author": "Roly Fentanes (https://github.com/fent)",
   "contributors": [
-    "Przemyslaw Pluta <przemyslawplutadev@gmail.com> (http://przemyslawpluta.com)"
+    "Przemyslaw Pluta <przemyslawplutadev@gmail.com> (http://przemyslawpluta.com)",
+    "Andrew Carlson <andrew@stem.is>"
   ],
   "main": "./lib/youtube-dl.js",
   "directories": {
